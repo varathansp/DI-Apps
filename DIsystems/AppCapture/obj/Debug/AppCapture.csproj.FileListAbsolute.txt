@@ -1,0 +1,11 @@
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\bin\Debug\AppCapture.exe.config
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\bin\Debug\AppCapture.exe
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\bin\Debug\AppCapture.pdb
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\obj\Debug\AppCapture.csprojAssemblyReference.cache
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\obj\Debug\AppCapture.AppCapture.resources
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\obj\Debug\AppCapture.Login.resources
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\obj\Debug\AppCapture.Properties.Resources.resources
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\obj\Debug\AppCapture.csproj.GenerateResource.cache
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\obj\Debug\AppCapture.csproj.CoreCompileInputs.cache
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\obj\Debug\AppCapture.exe
+C:\Users\vsuyambu\source\repos\DIsystems\AppCapture\obj\Debug\AppCapture.pdb
